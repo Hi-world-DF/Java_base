@@ -1,7 +1,7 @@
 ### Java学习路线
 
 ##### 1. java基础
-* Java概述
+* [Java概述]()
 * JDk环境安装
 * 环境变量的配置
 * java程序入门--Hello world！
