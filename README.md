@@ -1,7 +1,7 @@
 ### Java学习路线
 
 ##### 1. java基础
-* [Java概述](https://hi-world-df.github.io/Java_Test1/.)
+* [Java概述](https://hi-world-df.github.io/Java_Test1/java_base_基础概念.md.)
 * JDk环境安装
 * 环境变量的配置
 * java程序入门--Hello world！
