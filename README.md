@@ -2,8 +2,7 @@
 
 #### 1. java基础
 * [Java概述](https://github.com/Hi-world-DF/Java_Test1/blob/master/java_base_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md)
-* [JDK环境安装](https://www.runoob.com/java/java-environment-setup.html#win-install)
-* 环境变量的配置
+* [JDK环境安装和环境变量的配置](https://www.runoob.com/java/java-environment-setup.html#win-install)
 * java程序入门--Hello world！
 * ***
 #### 2. 编程基础
