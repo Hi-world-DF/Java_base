@@ -2,7 +2,7 @@
 
 #### 1. java基础
 * [Java概述](https://github.com/Hi-world-DF/Java_Test1/blob/master/java_base_%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5.md)
-* JDk环境安装
+* JDK环境安装
 * 环境变量的配置
 * java程序入门--Hello world！
 * ***
