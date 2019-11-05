@@ -1,4 +1,4 @@
-#第一个入门程序Hello World
+# 第一个入门程序Hello World
 
 	//编写一个类名：helloWorld的类
     class helloWorld{
