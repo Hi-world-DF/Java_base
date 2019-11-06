@@ -6,4 +6,4 @@
 java开发工具包JDK下载地址：[http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html "JDK下载地址")
 
 
-### 原文章地址很详细。。。。。。。（我就不重复了）
+> 原文章地址很详细。。。。。。。（我就不重复了）
